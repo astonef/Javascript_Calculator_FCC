@@ -1,2 +1,22 @@
+/* .App {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+    } */
 
+.contenitore {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.calcolatore {
+    height: 500px;
+    /* width: 480px; */
+    border-radius: 10px;
+    box-shadow: 4px 4px 8px violet;
+
+}
 
