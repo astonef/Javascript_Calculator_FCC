@@ -206,7 +206,9 @@ function App() {
       <div className="containeer">
         <div className="calculator bg-slate-50 text-black">
         <h2 className="frase text-6xl text-black hover:text-red-800">
-        <a href="">Operator Calculator</a>
+        <a href="https://www.youtube.com/watch?v=eSBybJGZoCU" target='_blank'>
+        Operator Calculator
+        </a>
         </h2>
           <Display input={input} output={output} />
           <Keyboard handleInput={handleInput} />
