@@ -40,8 +40,7 @@ body {
 
 .output {
     background-color:#f9f3ec;
-    border-radius: 40px;
-    height: 90px;
+
 }
 
 .result {
@@ -74,17 +73,23 @@ body {
     color: #000000;
     grid-column-end: 3;
     grid-column-start: 1;
+
     background-color:#faf0e6;
+
   }
 
   .keys button:nth-child(2) {
     color: #000000;
+
     background-color:#faf0e6;
+
   }
 
   .keys button:nth-child(3) {
     color: #050505;
+
     background-color:#faf0e6;
+
   }
 
   .keys button:nth-child(7) {
