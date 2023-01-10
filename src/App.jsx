@@ -205,7 +205,7 @@ function App() {
     <div className="App">
       <div className="containeer">
         <div className="calculator bg-slate-50 text-black">
-        <h2 className="frase text-6xl text-black hover:text-red-800">
+        <h2 className="frase text-5xl text-black pt-2">
         <a href="https://www.youtube.com/watch?v=eSBybJGZoCU" target='_blank'>
         Operator Calculator
         </a>
