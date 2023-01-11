@@ -209,8 +209,7 @@ function App() {
         <h2 className="frase text-5xl text-black pt-2">
         <a href="https://www.youtube.com/watch?v=eSBybJGZoCU" target='_blank'>
         Operator Calculator
-        </a>
-
+	  </a></h2>
 
 				
 		  
