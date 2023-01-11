@@ -211,7 +211,8 @@ function App() {
         Operator Calculator
         </a>
 </h2>
-
+<Display input={input} output={output} />
+          <Keyboard handleInput={handleInput} />
 
 				
 		  
